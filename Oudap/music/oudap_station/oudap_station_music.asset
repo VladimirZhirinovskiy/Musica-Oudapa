@@ -1,0 +1,110 @@
+music = {
+	name = "1"
+	file = "1.ogg"
+	volume = 0.80
+}
+music = {
+	name = "2"
+	file = "2.ogg"
+	volume = 0.80
+}
+music = {
+	name = "3"
+	file = "3.ogg"
+	volume = 0.80
+}
+music = {
+	name = "4"
+	file = "4.ogg"
+	volume = 0.80
+}
+music = {
+	name = "5"
+	file = "5.ogg"
+	volume = 0.80
+}
+music = {
+	name = "6"
+	file = "6.ogg"
+	volume = 0.80
+}
+music = {
+	name = "7"
+	file = "7.ogg"
+	volume = 0.80
+}
+music = {
+	name = "8"
+	file = "8.ogg"
+	volume = 0.80
+}
+music = {
+	name = "9"
+	file = "9.ogg"
+	volume = 0.80
+}
+music = {
+	name = "10"
+	file = "10.ogg"
+	volume = 0.80
+}
+music = {
+	name = "11"
+	file = "11.ogg"
+	volume = 0.80
+}
+music = {
+	name = "12"
+	file = "12.ogg"
+	volume = 0.80
+}
+music = {
+	name = "13"
+	file = "13.ogg"
+	volume = 0.80
+}
+music = {
+	name = "14"
+	file = "14.ogg"
+	volume = 0.80
+}
+music = {
+	name = "15"
+	file = "15.ogg"
+	volume = 0.80
+}
+music = {
+	name = "16"
+	file = "16.ogg"
+	volume = 0.80
+}
+music = {
+	name = "17"
+	file = "17.ogg"
+	volume = 0.80
+}
+music = {
+	name = "18"
+	file = "18.ogg"
+	volume = 0.80
+}
+music = {
+	name = "19"
+	file = "19.ogg"
+	volume = 0.80
+}
+music = {
+	name = "20"
+	file = "20.ogg"
+	volume = 0.80
+}
+music = {
+	name = "21"
+	file = "21.ogg"
+	volume = 0.80
+}
+music = {
+	name = "22"
+	file = "22.ogg"
+	volume = 0.80
+}
